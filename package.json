@@ -1,0 +1,16 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "Sample Shopping List Electron app",
+  "main": "main.js",
+  "repository": "https://github.com/nissan/learn-electron",
+  "author": "Nissan Dookeran <nissan.dookeran@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^8.2.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
